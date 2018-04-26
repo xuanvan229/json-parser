@@ -1,0 +1,255 @@
+[
+   {
+      code:'207RC0000X',
+      text:'Cardiovascular Disease'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207R00000X',
+      expires:'12/31/2018',
+      text:'Internal Medicine'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RG0100X',
+      expires:'12/31/2022',
+      text:'Gastroenterology'
+   },
+   {
+      code:'N/A',
+      text:'Cardiovascular Diagnostic Procedures'
+   },
+   {
+      board:'American Board of Podiatric Medicine',
+      code:'213E00000X',
+      expires:'12/31/2023',
+      text:'Podiatry'
+   },
+   {
+      code:'207W00000X',
+      text:'Ophthalmology'
+   },
+   {
+      board:'American Board of Family Medicine',
+      code:'207Q00000X',
+      expires:'12/31/2019',
+      text:'Family Medicine'
+   },
+   {
+      code:'207T00000X',
+      text:'Neurosurgery'
+   },
+   {
+      code:'208G00000X',
+      text:'Cardiothoracic Surgery'
+   },
+   {
+      code:'207L00000X',
+      text:'Anesthesiology'
+   },
+   {
+      code:'207RN0300X',
+      text:'Nephrology'
+   },
+   {
+      code:'208VP0000X',
+      text:'Pain Management'
+   },
+   {
+      code:'208100000X',
+      text:'Physical Medicine and Rehabilitation'
+   },
+   {
+      code:'208800000X',
+      text:'Urology'
+   },
+   {
+      code:'204E00000X',
+      text:'Oral & Maxillofacial Surgery'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RI0008X',
+      expires:'04/01/2017',
+      text:'Hepatology'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RP1001X',
+      expires:'04/01/2017',
+      text:'Pulmonary Disease'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RC0200X',
+      expires:'12/31/2017',
+      text:'Critical Care Medicine'
+   },
+   {
+      code:'152W00000X',
+      text:'Optometry'
+   },
+   {
+      board:'American Board of Surgery',
+      code:'208600000X',
+      expires:'12/31/2018',
+      text:'General Surgery'
+   },
+   {
+      code:'2084P0800X',
+      text:'Psychiatry'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RX0202X',
+      expires:'04/01/2017',
+      text:'Medical Oncology'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RH0000X',
+      expires:'04/01/2017',
+      text:'Hematology'
+   },
+   {
+      code:'207N00000X',
+      text:'Dermatology'
+   },
+   {
+      code:'207RR0500X',
+      text:'Rheumatology'
+   },
+   {
+      code:'2086S0129X',
+      text:'Vascular Surgery'
+   },
+   {
+      code:'2084N0400X',
+      text:'Neurology'
+   },
+   {
+      code:'207X00000X',
+      text:'Orthopedic Surgery'
+   },
+   {
+      code:'111N00000X',
+      text:'Chiropractic'
+   },
+   {
+      text:'Emergency Room'
+   },
+   {
+      code:'363L00000X',
+      text:'Nurse Practitioner'
+   },
+   {
+      board:'American Board of Dermatology',
+      code:'Unknown',
+      text:'Dermatopathology'
+   },
+   {
+      board:'American Board of Internal Medicine',
+      code:'207RC0001X',
+      expires:'04/01/2018',
+      text:'Cardiac Electrophysiology'
+   },
+   {
+      code:'207RH0003X',
+      text:'Hematology/Oncology'
+   },
+   {
+      board:'American Board of Orthopedic Surgery',
+      code:'207XX0005X',
+      expires:'12/31/2023',
+      text:'Sports Medicine (Ortho)'
+   },
+   {
+      code:'207RE0101X',
+      text:'Endocrinology'
+   },
+   {
+      board:'American Board of Radiology',
+      code:'2085R0001X',
+      expires:'12/31/2016',
+      text:'Radiation Oncology'
+   },
+   {
+      board:'American Osteopathic Association',
+      code:'207P00000X',
+      expires:'12/31/2024',
+      text:'Emergency Medicine'
+   },
+   {
+      code:'207Y00000X',
+      text:'Otolaryngology'
+   },
+   {
+      code:'207ZP0102X',
+      text:'Pathology'
+   },
+   {
+      code:'2085R0204X',
+      text:'Interventional Radiology'
+   },
+   {
+      code:'207RI0200X',
+      text:'Infectious Disease'
+   },
+   {
+      code:'2085R0202X',
+      text:'Diagnostic Radiology'
+   },
+   {
+      code:'208D00000X',
+      text:'General Practice'
+   },
+   {
+      code:'208M00000X',
+      text:'Hospitalist'
+   },
+   {
+      code:'2084N0600X',
+      text:'Neuropsychiatry'
+   },
+   {
+      code:'207V00000X',
+      text:'Obstetrics Gynecology'
+   },
+   {
+      code:'122300000X',
+      text:'Dentist'
+   },
+   {
+      code:'225100000X',
+      text:'Physical Therapy'
+   },
+   {
+      board:'American Board of Colon & Rectal Surgery',
+      code:'208C00000X',
+      expires:'12/31/2020',
+      text:'Colon & Rectal Surgery'
+   },
+   {
+      board:'American Board of Allergy & Immunology',
+      code:'207K00000X',
+      expires:'12/31/2022',
+      text:'Allergy Immunology'
+   },
+   {
+      board:'American Board of Surgery',
+      code:'2086X0206X',
+      expires:'12/31/2025',
+      text:'Surgical Oncology'
+   },
+   {
+      board:'NCCPA',
+      code:'363A00000X',
+      expires:'12/31/2017',
+      text:'Physician Assistant'
+   },
+   {
+      board:'American Board of Internal Medicine - Interventional Cardiology',
+      code:'207RI0011X',
+      text:'Interventional Cardiology'
+   }
+]
